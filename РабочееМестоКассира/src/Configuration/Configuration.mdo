@@ -44,4 +44,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.НСИ</subsystems>
+  <enums>Enum.СтавкиНДС</enums>
 </mdclass:Configuration>
