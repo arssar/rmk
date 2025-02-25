@@ -45,5 +45,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.НСИ</subsystems>
+  <catalogs>Catalog.Организации</catalogs>
   <enums>Enum.СтавкиНДС</enums>
 </mdclass:Configuration>
